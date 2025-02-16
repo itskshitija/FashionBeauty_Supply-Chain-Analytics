@@ -11,34 +11,27 @@ This project analyzes supply chain data from a Fashion & Beauty startup using Po
 ## Dataset
 The dataset contains comprehensive supply chain data for makeup products, including:
 
-### Product Information
+The dataset is based on the supply chain of Makeup products. Below are all the features in the dataset:
+
 - Product Type
 - SKU
 - Price
 - Availability
 - Number of products sold
 - Revenue generated
-
-### Customer Insights
 - Customer demographics
-
-### Inventory & Logistics
 - Stock levels
 - Lead times
 - Order quantities
 - Shipping times
 - Shipping carriers
 - Shipping costs
-
-### Supplier Data
 - Supplier name
 - Location
 - Lead time
 - Production volumes
 - Manufacturing lead time
 - Manufacturing costs
-
-### Quality & Transportation
 - Inspection results
 - Defect rates
 - Transportation modes
