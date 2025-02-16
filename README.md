@@ -9,8 +9,6 @@ This project analyzes supply chain data from a Fashion & Beauty startup using Po
 - Reduce lead times and shipping costs.
 
 ## Dataset
-The dataset contains comprehensive supply chain data for makeup products, including:
-
 The dataset is based on the supply chain of Makeup products. Below are all the features in the dataset:
 
 - Product Type
