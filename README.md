@@ -35,3 +35,21 @@ The dataset is based on the supply chain of Makeup products. Below are all the f
 - **Transportation Modes –** The means of transport used for product delivery (e.g., air, sea, road).
 - **Routes –** The logistics paths taken for product transportation from suppliers to warehouses or customers.
 - **Costs –** The overall expenses associated with supply chain operations, including production, logistics, and distribution.
+
+## Dashboard Preview
+#### Inventory Management
+![image](https://github.com/user-attachments/assets/fbf96514-3b24-4acf-915b-f77d4614f6d5)
+
+#### Revenue Insights
+![image](https://github.com/user-attachments/assets/5f4afd9e-cc4b-4a3d-a99e-9f6d12283182)
+
+#### Shipping Analysis
+![image](https://github.com/user-attachments/assets/f5e4f66a-7ffd-45ed-a7b1-2e57ce9a2eb3)
+
+#### Manufacturing Analysis
+![image](https://github.com/user-attachments/assets/290a2bc0-2b66-4253-b92a-66b471640ea2)
+
+#### Defect Rating Analysis
+![image](https://github.com/user-attachments/assets/9941b2c9-fe2d-45b3-a4b9-fb0e99a1d87f)
+
+
