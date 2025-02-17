@@ -56,7 +56,7 @@ The dataset is based on the supply chain of Makeup products. Below are all the f
 
 ### 📊Dashboard-1: Inventory Management
 #### Overall SKU Performance
-- The business offers 100 SKUs, contributing to total revenue of $577,605 with 46,099 products sold.
+- The startup offers 100 SKUs, contributing to total revenue of $577,605 with 46,099 products sold.
 - The total shipping cost is $554.81, while manufacturing costs amount to $4,727, indicating cost efficiency in production but potentially high logistics expenses
 
 #### Stock Levels & Product Performance
@@ -195,16 +195,16 @@ The dataset is based on the supply chain of Makeup products. Below are all the f
 - **Rail:** 28.51%.
 - **Air:** 20.83%.
 - **Sea:** 17.28% (lowest defects).
-Road transportation has the highest defect rate, which might indicate packaging or handling issues.
+- Road transportation has the highest defect rate, which might indicate packaging or handling issues.
 
 ####  Defect Rate by Route
 - **Route A:** 101 defects (highest).
 - **Route B:** 86 defects.
 - **Route C:** 41 defects (lowest).
-Route A has significantly more defects, suggesting possible logistic or handling issues.
+- Route A has significantly more defects, suggesting possible logistic or handling issues.
 
 #### Defect Rate by Supplier
 - **Supplier 2:** 52 defects (highest).
 - **Supplier 1 & Supplier 5:** 49 & 48 defects.
 - **Supplier 3:** 37 defects (lowest).
-Supplier 2 has the highest defect rate, suggesting quality control issues in their products.
+- Supplier 2 has the highest defect rate, suggesting quality control issues in their products.
