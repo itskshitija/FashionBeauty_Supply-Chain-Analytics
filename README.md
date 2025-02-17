@@ -1,7 +1,7 @@
 # SupplyChain Analytics Fashion (Beauty)
 
 ## Project Overview
-This project analyzes supply chain data from a Fashion & Beauty startup using Power BI to optimize operations, reduce costs, and improve customer satisfaction. It includes interactive dashboards and data-driven insights focusing on inventory management, logistics efficiency, and supplier performance.
+This project utilizes Power BI to analyze supply chain data for a Fashion & Beauty startup, aiming to enhance operations, minimize costs, and boost customer satisfaction. It features interactive dashboards and data-driven insights, with a focus on inventory management, logistics efficiency, and supplier performance.
 
 ## Objectives
 - Identify bottlenecks in supply chain operations.
