@@ -152,19 +152,19 @@ The dataset is based on the supply chain of Makeup products. Below are all the f
 
 ## 📊Dashboard-4: Manufacturing Analysis
 #### Average Manufacturing Metrics
-**- Avg. Manufacturing Lead Time:** 14.77 days.
-**- Avg. Manufacturing Cost:** 47.27 units.
+- **Avg. Manufacturing Lead Time:** 14.77 days.
+- **Avg. Manufacturing Cost:** 47.27 units.
 
 #### Manufacturing Costs by Product Type
-**- Haircare:** 41.46% (highest manufacturing cost share).
-**- Skincare:** 34.86%.
-**- Cosmetics:** 23.68%.
+- **Haircare:** 41.46% (highest manufacturing cost share).
+- **Skincare:** 34.86%.
+- **Cosmetics:** 23.68%.
 - Haircare products are the most expensive to manufacture, suggesting a potential area for cost optimization.
 
 #### Manufacturing Lead Time by Product Type
-**- Haircare:** 580 units (highest lead time).
-**- Skincare:** 551 units.
-**- Cosmetics:** 346 units (lowest lead time).
+- **Haircare:** 580 units (highest lead time).
+- **Skincare:** 551 units.
+- **Cosmetics:** 346 units (lowest lead time).
 - Haircare and skincare products take significantly longer to manufacture than cosmetics.
 
 #### Manufacturing Lead Time vs. Costs
@@ -179,9 +179,9 @@ The dataset is based on the supply chain of Makeup products. Below are all the f
 - 2.28% avg. defect rate, which indicates an overall low defect percentage but can be further improved.
 
 #### Defect Rate by Product Type
-**- Skincare:** 93 defects (highest).
-**- Haircare:** 84 defects.
-**- Cosmetics:** 50 defects (lowest).
+- **Skincare:** 93 defects (highest).
+- **Haircare:** 84 defects.
+- **Cosmetics:** 50 defects (lowest).
 - Skincare products have the highest defect rates, requiring quality improvement efforts.
 
 #### Defect Rate by Product Price
@@ -191,20 +191,20 @@ The dataset is based on the supply chain of Makeup products. Below are all the f
 - Defect rates are scattered across different production volumes, implying that defects are not necessarily linked to high or low production quantities.
 
 #### Defect Rate by Transportation Mode
-**- Road:** 33.38% (highest defects).
-**- Rail:** 28.51%.
-**- Air:** 20.83%.
-**- Sea:** 17.28% (lowest defects).
+- **Road:** 33.38% (highest defects).
+- **Rail:** 28.51%.
+- **Air:** 20.83%.
+- **Sea:** 17.28% (lowest defects).
 Road transportation has the highest defect rate, which might indicate packaging or handling issues.
 
 ####  Defect Rate by Route
-**- Route A:** 101 defects (highest).
-**- Route B:** 86 defects.
-**- Route C:** 41 defects (lowest).
+- **Route A:** 101 defects (highest).
+- **Route B:** 86 defects.
+- **Route C:** 41 defects (lowest).
 Route A has significantly more defects, suggesting possible logistic or handling issues.
 
 #### Defect Rate by Supplier
-**- Supplier 2:** 52 defects (highest).
-**- Supplier 1 & Supplier 5:** 49 & 48 defects.
-**- Supplier 3:** 37 defects (lowest).
+- **Supplier 2:** 52 defects (highest).
+- **Supplier 1 & Supplier 5:** 49 & 48 defects.
+- **Supplier 3:** 37 defects (lowest).
 Supplier 2 has the highest defect rate, suggesting quality control issues in their products.
