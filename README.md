@@ -52,4 +52,6 @@ The dataset is based on the supply chain of Makeup products. Below are all the f
 #### Defect Rating Analysis
 ![image](https://github.com/user-attachments/assets/9941b2c9-fe2d-45b3-a4b9-fb0e99a1d87f)
 
+## Summary of Insights 
+
 
