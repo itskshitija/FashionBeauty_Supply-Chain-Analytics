@@ -174,7 +174,7 @@ The dataset is based on the supply chain of Makeup products. Below are all the f
 - Costs vary widely across different order quantities, with some order quantities having spikes in manufacturing costs.
 - Identifying the reasons behind these spikes (e.g., bulk orders, inefficiencies) can help optimize production planning.
 
-### Dashboard-5: Defect rate Analysis
+### 📊Dashboard-5: Defect rate Analysis
 #### Average Defect Rate
 - 2.28% avg. defect rate, which indicates an overall low defect percentage but can be further improved.
 
